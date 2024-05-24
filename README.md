@@ -1,1 +1,1 @@
-# buildingspace
+# Building Space Ontology
