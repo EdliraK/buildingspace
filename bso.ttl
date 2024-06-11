@@ -13,7 +13,7 @@
 bso: a owl:Ontology ;
 
     cc:license <https://creativecommons.org/licenses/by/4.0/> ;
-    dct:creator bso:edlira;
+    dct:creator bso:ioannis, bso:iasonas, bso:edlira;
     dct:description "TODO."@en ;
     dct:title "BSO"@en ;
     vann:preferredNamespacePrefix "aec3po" ;
