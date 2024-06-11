@@ -1,3 +1,3 @@
 # Building Space Ontology
-#Scope
-#Competency Qestions
+# Scope
+# Competency Questions
